@@ -1,1 +1,2 @@
-# Zombie-1-complete
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
